@@ -89,32 +89,31 @@ This project helps Trust Farms by:
 
 Modern landing page introducing Trust Farms and its premium dairy products.
 
-![Home](Images/farm1.jpg)
+![Home Page](Images/Home page.png)
 
 ---
 
-## 🥛 Product Section
+## 🥛 Products Section
 
-Displays fresh dairy products with an attractive layout.
+Showcases Trust Farms' premium dairy products with detailed descriptions and a clean, modern product display.
 
-![Products](Images/farm2.jpg)
+![Products Section](Images/Product Services.png)
 
 ---
 
 ## 🌱 Benefits Section
 
-Highlights the nutritional value and quality of Trust Farms products.
+Highlights the nutritional benefits of fresh buffalo milk, emphasizing health, purity, and quality.
 
-![Benefits](Images/farm3.png)
+![Benefits Section](Images/Benefits Section.png)
 
 ---
 
-## 🚚 Delivery & Services
+## 🚚 Delivery Section
 
-Provides delivery information and encourages customers to place orders.
+Displays the delivery coverage areas, location map, and fresh daily delivery information for customers.
 
-![Delivery](Images/farm4.jpg)
-
+![Delivery Section](Images/delivery section.png)
 ---
 
 # 🌐 Live Demo
